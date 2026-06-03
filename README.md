@@ -9,4 +9,4 @@ This repository lists all the material that has been prepared for 2026 CINES GPU
      - Intermediate test case (2D problem) in the 'Posydonie' directory (in HOMEDIR and WORKDIR of jmbrankart)
      - Large test case (3D problem) prepared by Damien Héron.
  - Then, some tests on a particular [cdftool](https://github.com/meom-group/CDFTOOLS) : https://github.com/aureliealbertmeom/TEST_CDFMOC_GPU/tree/main
- - Last, the deployment of [Basilisk model](https://basilisk.fr/) on AMD GPU could be tested
+ - Last, the deployment of [Basilisk model](https://basilisk.fr/) on AMD GPU could be tested : https://github.com/HugoJacq/hackathon_cines_GPU_juin26
